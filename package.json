@@ -1,0 +1,17 @@
+{
+  "name": "dracula-ThemeModalFileManager",
+  "version": "1.0.0",
+  "description": "The Dracula theme for Modal File Manager.",
+  "keywords": [
+    "modalfilemanager"
+  ],
+  "author": "Richard Guay",
+  "license": "MIT",
+  "mfmtheme": {
+    "name": "dracula-ThemeModalFileManager",
+    "description": "Dracula theme for Modal File Manager.",
+    "type": 0,
+    "github": "",
+    "main": "dracula.json"
+  }
+}
